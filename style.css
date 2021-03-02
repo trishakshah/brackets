@@ -95,3 +95,14 @@ p {
 .links:hover {
     background-color: deepskyblue;
 }
+
+a{
+    text-decoration: none;
+}
+.article:hover {
+    color: turquoise;
+}
+
+html {
+    scroll-behavior: smooth;   
+}
